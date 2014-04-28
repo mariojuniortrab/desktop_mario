@@ -30,7 +30,7 @@ Ext.define('Desktop.GridWindow', {
         if(!win){
             win = desktop.createWindow({
                 id: 'grid-win',
-                title:'Grid Window',
+                title:'LINCO',
                 width:740,
                 height:480,
                 iconCls: 'icon-grid',
